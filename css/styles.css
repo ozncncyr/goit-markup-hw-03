@@ -183,7 +183,7 @@ body{
 }
 
 .section-two .list-item{
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 .visually-hidden {
